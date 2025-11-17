@@ -1071,3 +1071,10 @@ FastAgent builds upon excellent open-source projects, we sincerely thank their a
 **🤖 Experience AI's full potential in unified research, analysis, and computer automation!**  
 
 </div>
+
+---
+
+<p align="center">
+  <em> ❤️ Thanks for visiting ✨ FastAgent!</em><br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HKUDS.FastAgent&style=for-the-badge&color=00d4ff" alt="Views">
+</p>
